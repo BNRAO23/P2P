@@ -1,0 +1,12 @@
+{
+  "name": "p2p-control-tower-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local, human-reviewed P2P invoice operations demo.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
